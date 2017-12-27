@@ -9,3 +9,6 @@
 * You can access ssid , bssid , channel , cipher etc on any network .
 * It also displays OUI (Organizationally unique identifier ).
 * You can import oui and use it for mac address oui resolution .
+
+### Sample Output on channel 6 :-
+<img src='https://github.com/mohitrajain/minidump/blob/master/sample.png'>
