@@ -22,6 +22,4 @@ def oui(mac):
 def finder(st):
     return re.findall(r'{0}.*=(.*)'.format(st),data)
 
-#oui('18:a6:f7:14:25:d9')
-#oui('00:71:cc:06:68:2d')
-#oui('b8:2a:72:9e:43:ad')
+#oui('ab:cd:ef:ab:cd:ef')
